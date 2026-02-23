@@ -1,6 +1,3 @@
 {
-    "buildCommand": "cd prototype && npm run build",
-    "outputDirectory": "prototype/.next",
-    "installCommand": "cd prototype && npm install",
     "framework": "nextjs"
 }
